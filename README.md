@@ -21,10 +21,14 @@ ISO/IEC 27001, 27002, and 27003 outline **what** controls and architectures are 
 
 ---
 
-* **Situation:** Auditing an ISMS often falls apart because international standards define high-level requirements without providing the tactical, line-item questions needed to test compliance on the ground.
-* **Task:** The core responsibility of security assurance is to evaluate both the **"Plan"** (organizational intent and policies) and the **"Do"** (actual operational execution and evidence).
-* **Action:** I translated complex ISO requirements into direct, field-tested verification questions paired with clear evidence requirements across every control domain.
-* **Result:** This transforms standard compliance from a static, paper-only exercise into an active, repeatable audit engine that rapidly validates operational security.
+### Audit Assurance Approach
+
+| STAR Phase | Focus & Mandate | Execution & Impact |
+| :--- | :--- | :--- |
+| **Situation** | Baseline Problem | ISMS audits frequently fail because official standards define high-level requirements without providing line-item testing questions. |
+| **Task** | Security Assurance Mandate | Bridge the operational gap between policy intent (**"Plan"**) and real-world execution (**"Do"**) across all organizational domains. |
+| **Action** | Toolkit Blueprint | Translated complex ISO requirements into direct, field-tested verification questions paired with clear evidence expectations. |
+| **Result** | Operational Impact | Transformed static compliance into an active, repeatable audit engine for rapid, reliable operational verification. |
 
 ---
 ## Live Master Audit Checklist
